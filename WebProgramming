@@ -1,0 +1,7 @@
+echo "# 32602100082_M.maulana" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/Shallter/32602100082_M.maulana.git
+git push -u origin main
